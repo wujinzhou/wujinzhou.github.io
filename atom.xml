@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-08T14:55:33.684Z</updated>
+  <updated>2016-09-08T14:58:42.236Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,111 +20,78 @@
     <link href="http://yoursite.com/2016/09/08/Dec-2014-%E2%80%93-Jun-2016-Work-Summary/"/>
     <id>http://yoursite.com/2016/09/08/Dec-2014-–-Jun-2016-Work-Summary/</id>
     <published>2016-09-08T14:39:54.000Z</published>
-    <updated>2016-09-08T14:55:33.684Z</updated>
+    <updated>2016-09-08T14:58:42.236Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Dec-2014-to-Jun-2015"><a href="#Dec-2014-to-Jun-2015" class="headerlink" title="Dec 2014 to Jun 2015"></a><strong>Dec 2014 to Jun 2015</strong></h2><p>Embedded System Development: Ameba RTL8195 IoT Board &amp; SDK</p>
+    <content type="html"><![CDATA[<h2 id="Dec-2014-to-Jun-2015"><a href="#Dec-2014-to-Jun-2015" class="headerlink" title="Dec 2014 to Jun 2015"></a><strong>Dec 2014 to Jun 2015</strong></h2><h2 id="Dec-2014-to-Jun-2015-1"><a href="#Dec-2014-to-Jun-2015-1" class="headerlink" title="Dec 2014 to Jun 2015"></a><strong>Dec 2014 to Jun 2015</strong></h2><p>Embedded System Development: Ameba RTL8195 IoT Board &amp; SDK</p>
 <ul>
-<li>I2C examples verification &amp; related documentations </li>
-</ul>
-<ul>
-<li><p>Ameba RTL8195 SDK SHTC1 sensor example: get temperature &amp; humidity</p>
-<p>value from SHTC1 sensor</p>
+<li><p>I2C examples verification &amp; related documentations </p>
+</li>
+<li><p>Ameba RTL8195 SDK SHTC1 sensor example: get temperature &amp; humidity<br>value from SHTC1 sensor</p>
 </li>
 </ul>
 <p>Android Development: WiGadget for Android Phones/Tablets</p>
 <ul>
-<li><p>Ameba RTL8195 device discovery through through Zero-configuration</p>
-<p>networking</p>
+<li><p>Ameba RTL8195 device discovery through through Zero-configuration<br>networking</p>
+</li>
+<li><p>Local link connection between Ameba RTL8195 and smart phone via<br>socket</p>
+</li>
+<li><p>Cloud link connection between Ameba RTL8195 and smart phone via<br>Firebase</p>
+</li>
+<li><p>SHTC1 support on WiGadget: Use WiGadget to get temperature &amp;<br>humidity value from Ameba RTL8195 IoT Board</p>
 </li>
 </ul>
-<ul>
-<li><p>Local link connection between Ameba RTL8195 and smart phone via</p>
-<p>socket</p>
-</li>
-</ul>
-<ul>
-<li><p>Cloud link connection between Ameba RTL8195 and smart phone via</p>
-<p>Firebase</p>
-</li>
-</ul>
-<ul>
-<li><p>SHTC1 support on WiGadget: Use WiGadget to get temperature &amp;</p>
-<p>humidity value from Ameba RTL8195 IoT Board</p>
-</li>
-</ul>
-<hr>
-<hr>
 <h2 id="Jun-2015-to-Dec-2015"><a href="#Jun-2015-to-Dec-2015" class="headerlink" title="Jun 2015 to Dec 2015"></a><strong>Jun 2015 to Dec 2015</strong></h2><p>Embedded System Development: Ameba RTL8195 IoT Board &amp; SDK</p>
 <ul>
 <li>SPI examples verification &amp; related documentations </li>
 </ul>
 <p>iOS Development: WiGadget for iPhone &amp; iPad</p>
 <ul>
-<li><p>Ameba RTL8195 device discovery through through Zero-configuration</p>
-<p>networking</p>
+<li><p>Ameba RTL8195 device discovery through through Zero-configuration<br>networking</p>
+</li>
+<li><p>Local link connection between Ameba RTL8195 and smart phone via<br>socket</p>
+</li>
+<li><p>Cloud link connection between Ameba RTL8195 and smart phone via<br>Firebase</p>
+</li>
+<li><p>SHTC1 support on WiGadget: Use WiGadget to get temperature &amp;<br>humidity value from Ameba RTL8195 IoT Board</p>
 </li>
 </ul>
-<ul>
-<li><p>Local link connection between Ameba RTL8195 and smart phone via</p>
-<p>socket</p>
-</li>
-</ul>
-<ul>
-<li><p>Cloud link connection between Ameba RTL8195 and smart phone via</p>
-<p>Firebase</p>
-</li>
-</ul>
-<ul>
-<li><p>SHTC1 support on WiGadget: Use WiGadget to get temperature &amp;</p>
-<p>humidity value from Ameba RTL8195 IoT Board</p>
-</li>
-</ul>
-<hr>
-<hr>
 <h2 id="Jan-2016-to-Jun-2016"><a href="#Jan-2016-to-Jun-2016" class="headerlink" title="Jan 2016 to Jun 2016"></a><strong>Jan 2016 to Jun 2016</strong></h2><p>Android Development: WiGadget for CES 2016 Las Vegas Demo</p>
 <ul>
-<li>Upgrade WiGadget for CES 2016 Demo</li>
-</ul>
-<pre><code>-   Added SimpleConfig feature: connect Ameba RTL8195 IoT Board to
-
-    Internet via WiGadget
-
-
-
--   Add PM2.5 / PM10 support on WiGadget: Use WiGadget to get PM2.5
-
-    / PM10 values from Ameba RTL8195 IoT Board
-</code></pre><p>Android Development: MyCloud for Android Phones/Tablets</p>
+<li><p>Upgrade WiGadget for CES 2016 Demo</p>
 <ul>
-<li><p>Get &amp; update Xively cloud database from Android devices for Ameba</p>
-<p>RTL8195 IoT Board</p>
+<li><p>Added SimpleConfig feature: connect Ameba RTL8195 IoT Board to<br>Internet via WiGadget</p>
+</li>
+<li><p>Add PM2.5 / PM10 support on WiGadget: Use WiGadget to get PM2.5<br>/ PM10 values from Ameba RTL8195 IoT Board</p>
 </li>
 </ul>
+</li>
+</ul>
+<p>Android Development: MyCloud for Android Phones/Tablets</p>
 <ul>
-<li>Generic UI for Xively</li>
+<li><p>Get &amp; update Xively cloud database from Android devices for Ameba<br>RTL8195 IoT Board</p>
+</li>
+<li><p>Generic UI for Xively</p>
+</li>
 </ul>
 <p>iOS Development: MyCloud for iPhone &amp; iPad</p>
 <ul>
-<li><p>Get &amp; update Xively cloud database from iOS devices for Ameba</p>
-<p>RTL8195 IoT Board</p>
+<li><p>Get &amp; update Xively cloud database from iOS devices for Ameba<br>RTL8195 IoT Board</p>
 </li>
-</ul>
-<ul>
-<li>Generic UI for Xively</li>
+<li><p>Generic UI for Xively</p>
+</li>
 </ul>
 <p>Embedded System Development: Ameba RTL8195 IoT Board</p>
 <ul>
-<li>Port AllSeen Alliance AllJoyn Framework to Ameba RTL8195 SDK</li>
-</ul>
-<ul>
-<li>Provide AllJoyn Basic Client-Service Example on Ameba</li>
-</ul>
-<ul>
-<li>Provide AllJoyn Bus Property Example on Ameba and Android devices</li>
+<li><p>Port AllSeen Alliance AllJoyn Framework to Ameba RTL8195 SDK</p>
+</li>
+<li><p>Provide AllJoyn Basic Client-Service Example on Ameba</p>
+</li>
+<li><p>Provide AllJoyn Bus Property Example on Ameba and Android devices</p>
+</li>
 </ul>
 <p>Research Study: Ameba RTL8195 IoT Board Mesh Network</p>
 <ul>
-<li>IEEE 802.11s mesh network research &amp; study for Ameba RTL8195 IoT Board</li>
+<li>IEEE 802.11s mesh network research &amp; study for Ameba RTL8195 IoT<br>Board</li>
 </ul>
 ]]></content>
     
