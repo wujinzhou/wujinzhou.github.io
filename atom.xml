@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-09T07:41:45.944Z</updated>
+  <updated>2016-09-09T10:49:59.852Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,43 +19,100 @@
     <title>Dec 2014 – Jun 2016 Work Summary</title>
     <link href="http://yoursite.com/2016/09/09/Dec-2014-%E2%80%93-Jun-2016-Work-Summary/"/>
     <id>http://yoursite.com/2016/09/09/Dec-2014-–-Jun-2016-Work-Summary/</id>
-    <published>2016-09-09T07:40:20.000Z</published>
-    <updated>2016-09-09T07:41:45.944Z</updated>
+    <published>2016-09-09T09:07:02.000Z</published>
+    <updated>2016-09-09T10:49:59.852Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="Dec-2014-–-Jun-2016-Work-Summary/bg5.jpg" alt="bg pic"></p>
+    <content type="html"><![CDATA[<p><strong><em>Jan 2016 to Jun 2016</em></strong></p>
+<p><br></p>
+<p>Android Development: WiGadget for CES 2016 Las Vegas Demo</p>
+<blockquote>
+<ul>
+<li>Upgrade WiGadget for CES 2016 Demo<ul>
+<li>Added SimpleConfig feature: connect Ameba RTL8195 IoT Board to Internet with WiGadget</li>
+<li>Add PM2.5 / PM10 support on WiGadget: Use WiGadget to get PM2.5 / PM10 values from Ameba RTL8195 IoT Board</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+<p><br></p>
+<p>Android Development: MyCloud for Android Phones/Tablets</p>
+<blockquote>
+<ul>
+<li>Get &amp; update Xively cloud database from Android devices for Ameba RTL8195 IoT Board</li>
+<li>Generic UI for Xively</li>
+</ul>
+</blockquote>
+<p><br></p>
+<p>iOS Development: MyCloud for iPhone &amp; iPad</p>
+<blockquote>
+<ul>
+<li>Get &amp; update Xively cloud database from iOS devices for Ameba RTL8195 IoT Board</li>
+<li>Generic UI for Xively</li>
+</ul>
+</blockquote>
+<p><br></p>
+<p>Embedded System Development:  Ameba RTL8195 IoT Board</p>
+<blockquote>
+<ul>
+<li>Port AllSeen Alliance AllJoyn Framework to Ameba RTL8195 SDK</li>
+<li>Provide AllJoyn Basic Client-Service Example on Ameba</li>
+<li>Provide AllJoyn Bus Property Example on Ameba and Android devices</li>
+</ul>
+</blockquote>
+<p><br></p>
+<p>Research Study: Ameba RTL8195 IoT Board Mesh Network</p>
+<blockquote>
+<ul>
+<li>IEEE 802.11s mesh network research &amp; study for Ameba RTL8195 IoT Board</li>
+</ul>
+</blockquote>
+<p><br></p>
+<p><strong><em>Jun 2015 to Dec 2015</em></strong></p>
+<p><br></p>
+<p>Embedded System Development: Ameba RTL8195 IoT Board &amp; SDK</p>
+<blockquote>
+<ul>
+<li>SPI examples verification &amp; related documentations </li>
+</ul>
+</blockquote>
+<p><br></p>
+<p>iOS Development: WiGadget for iPhone &amp; iPad</p>
+<blockquote>
+<ul>
+<li>Ameba RTL8195 device discovery through through Zero-configuration networking</li>
+<li>Local link connection between Ameba RTL8195 and smart phone with socket</li>
+<li>Cloud link connection between Ameba RTL8195 and smart phone with Firebase</li>
+<li>SHTC1 support on WiGadget: Use WiGadget to get temperature &amp; humidity value from Ameba RTL8195 IoT Board</li>
+</ul>
+</blockquote>
+<p><br></p>
+<p><strong><em>Dec 2014 to Jun 2015</em></strong></p>
+<p><br></p>
+<p>Embedded System Development: Ameba RTL8195 IoT Board &amp; SDK</p>
+<blockquote>
+<ul>
+<li>I2C examples verification &amp; related documentations </li>
+<li>Ameba RTL8195 SDK SHTC1 sensor example: get temperature &amp; humidity value from SHTC1 sensor</li>
+</ul>
+</blockquote>
+<p><br></p>
+<p>Android Development: WiGadget for Android Phones/Tablets</p>
+<blockquote>
+<ul>
+<li>Ameba RTL8195 device discovery through through Zero-configuration networking</li>
+<li>Local link connection between Ameba RTL8195 and smart phone via socket</li>
+<li>Cloud link connection between Ameba RTL8195 and smart phone via Firebase</li>
+<li>SHTC1 support on WiGadget: Use WiGadget to get temperature &amp; humidity value from Ameba RTL8195 IoT Board</li>
+</ul>
+</blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;Dec-2014-–-Jun-2016-Work-Summary/bg5.jpg&quot; alt=&quot;bg pic&quot;&gt;&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2016/09/08/hello-world/"/>
-    <id>http://yoursite.com/2016/09/08/hello-world/</id>
-    <published>2016-09-08T09:41:41.541Z</published>
-    <updated>2016-09-08T09:41:41.541Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;&lt;strong&gt;&lt;em&gt;Jan 2016 to Jun 2016&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Android Development: WiGadget for CES 2016 Las Vegas Demo&lt;/p&gt;
+&lt;blockquo
     
     </summary>
     
